@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+scikit-learn
+torch
+cryptography
+pycryptodome
+pandas
+streamlit
+watchdog
+psutil
+joblib
+pytest
+SQLAlchemy
+httpx
+requests
