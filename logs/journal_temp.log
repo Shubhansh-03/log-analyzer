@@ -8002,3 +8002,735 @@ Apr 01 17:36:27 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync
 Apr 01 17:36:27 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
 Apr 01 17:36:38 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
 Apr 01 17:36:38 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 17:41:18 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 17:41:18 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 17:41:48 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 17:41:48 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 17:42:18 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 17:42:18 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 17:46:03 fedora wpa_supplicant[1270]: wlo1: PMKSA-CACHE-ADDED 50:e4:e0:d7:86:f0 0
+Apr 01 17:49:38 fedora brave-browser.desktop[3169]: [3170:3170:0401/174938.959423:ERROR:chrome/browser/ui/views/user_education/impl/browser_user_education_interface_impl.cc:154] Attempting to show IPH IPH_DiscardRing before browser initialization complete; IPH will not be shown.
+Apr 01 17:49:54 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.4.4.
+Apr 01 17:51:38 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 17:51:38 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 17:52:08 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 17:52:08 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 17:56:53 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 17:56:53 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:01:00 fedora CROND[53533]: (root) CMD (run-parts /etc/cron.hourly)
+Apr 01 18:01:00 fedora run-parts[53536]: (/etc/cron.hourly) starting 0anacron
+Apr 01 18:01:00 fedora run-parts[53542]: (/etc/cron.hourly) finished 0anacron
+Apr 01 18:01:00 fedora CROND[53532]: (root) CMDEND (run-parts /etc/cron.hourly)
+Apr 01 18:01:28 fedora wpa_supplicant[1270]: wlo1: PMKSA-CACHE-ADDED d0:4d:c6:60:75:a0 0
+Apr 01 18:02:03 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:02:03 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 18:06:38 fedora wpa_supplicant[1270]: wlo1: PMKSA-CACHE-ADDED 70:3a:0e:e7:fe:c2 0
+Apr 01 18:06:42 fedora brave-browser.desktop[3169]: [3170:3170:0401/180642.589020:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (594.865s) location=FadeAnimationDelegate@chrome/browser/ui/views/tabs/alert_indicator_button.cc:125
+Apr 01 18:07:08 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:07:08 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:07:38 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:07:38 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 18:08:08 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:08:08 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:12:18 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:12:18 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:12:48 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:12:48 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:17:28 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:17:28 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:17:58 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:17:58 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:22:54 fedora antigravity.desktop[11981]: Clearcut upload failed: GaxiosError: Request failed with status code 503
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     at Gaxios._request (/usr/share/antigravity/resources/app/node_modules/gaxios/build/cjs/src/gaxios.js:154:23)
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     at async OAuth2Client.requestAsync (/usr/share/antigravity/resources/app/node_modules/google-auth-library/build/src/auth/oauth2client.js:463:20)
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     at async mke.F (file:///usr/share/antigravity/resources/app/out/main.js:4545:60641)
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     at async mke.G (file:///usr/share/antigravity/resources/app/out/main.js:4545:61776)
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     at async Timeout._onTimeout (file:///usr/share/antigravity/resources/app/out/main.js:4545:62056) {
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:   config: {
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     url: URL {
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       href: 'https://play.googleapis.com/log',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       origin: 'https://play.googleapis.com',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       protocol: 'https:',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       username: '',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       password: '',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       host: 'play.googleapis.com',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       hostname: 'play.googleapis.com',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       port: '',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       pathname: '/log',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       search: '',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       searchParams: URLSearchParams {},
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       hash: ''
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     },
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     method: 'POST',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     headers: Headers {
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       authorization: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       'content-type': 'application/octet-stream',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       'x-goog-api-client': 'gl-node/22.21.1',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       'User-Agent': 'google-api-nodejs-client/10.3.0'
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     },
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     body: Uint8Array(514) [
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:        10,   2,   8,  44,  16, 187,  21,  26, 241,   3,   8, 212,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       130, 214, 200, 212,  51,  50, 231,   3,  50, 177,   3,  10,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:        18, 112, 114, 111,  99, 101, 115, 115,  95, 112, 101, 114,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       102,  95, 115, 116,  97, 116, 115,  18,  33,  10,  24, 101,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       108, 101,  99, 116, 114, 111, 110,  95, 109,  97, 105, 110,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:        95,  97, 118, 103,  95, 109, 101, 109,  95, 109,  98,  18,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:         5,  50,  56,  49,  46,  51,  18,  33,  10,  24, 101, 108,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       101,  99, 116, 114, 111, 110,  95, 109,  97, 105, 110,  95,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       109,  97, 120,  95,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       ... 414 more items
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     ],
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     responseType: 'arraybuffer',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     validateStatus: [Function: validateStatus],
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     errorRedactor: [Function: defaultErrorRedactor],
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     duplex: 'half'
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:   },
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:   response: Response {
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     size: 0,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     data: ArrayBuffer {
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       [Uint8Contents]: <3c 21 44 4f 43 54 59 50 45 20 68 74 6d 6c 3e 0a 3c 68 74 6d 6c 20 6c 61 6e 67 3d 65 6e 3e 0a 20 20 3c 6d 65 74 61 20 63 68 61 72 73 65 74 3d 75 74 66 2d 38 3e 0a 20 20 3c 6d 65 74 61 20 6e 61 6d 65 3d 76 69 65 77 70 6f 72 74 20 63 6f 6e 74 65 6e 74 3d 22 69 6e 69 74 69 61 6c 2d 73 63 61 6c 65 3d 31 ... 1483 more bytes>,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       byteLength: 1583
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     },
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     config: {
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       url: URL {},
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       method: 'POST',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       headers: Headers {
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:         authorization: '<<REDACTED> - See `errorRedactor` option in `gaxios` for configuration>.',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:         'content-type': 'application/octet-stream',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:         'x-goog-api-client': 'gl-node/22.21.1',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:         'User-Agent': 'google-api-nodejs-client/10.3.0'
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       },
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       body: [Uint8Array],
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       responseType: 'arraybuffer',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       validateStatus: [Function: validateStatus],
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       errorRedactor: [Function: defaultErrorRedactor],
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       duplex: 'half'
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     },
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     [Symbol(Body internals)]: {
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       body: [PassThrough],
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       stream: [PassThrough],
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       boundary: null,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       disturbed: true,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       error: null
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     },
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     [Symbol(Response internals)]: {
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       type: 'default',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       url: 'https://play.googleapis.com/log',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       status: 503,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       statusText: 'Service Unavailable',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       headers: [Object],
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       counter: 0,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:       highWaterMark: 16384
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     }
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:   },
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:   code: 503,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:   status: 503,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:   error: undefined,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:   [Symbol(gaxios-gaxios-error)]: '7.1.2',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:   [cause]: {
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     message: 'Request failed with status code 503',
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     code: 503,
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:     status: 'Service Unavailable'
+Apr 01 18:22:54 fedora antigravity.desktop[11981]:   }
+Apr 01 18:22:54 fedora antigravity.desktop[11981]: }
+Apr 01 18:23:50 fedora audit: BPF prog-id=123 op=LOAD
+Apr 01 18:23:50 fedora systemd[1]: Starting fprintd.service - Fingerprint Authentication Daemon...
+Apr 01 18:23:50 fedora systemd[1]: Started fprintd.service - Fingerprint Authentication Daemon.
+Apr 01 18:23:50 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 18:23:52 fedora gdm-password][63533]: gkr-pam: unlocked login keyring
+Apr 01 18:23:52 fedora audit[63533]: USER_AUTH pid=63533 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:authentication grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 18:23:52 fedora audit[63533]: USER_ACCT pid=63533 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:accounting grantors=pam_unix acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 18:23:52 fedora audit[63533]: CRED_REFR pid=63533 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:setcred grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 18:23:52 fedora NetworkManager[1241]: <info>  [1775048032.6030] agent-manager: agent[ef96b5d85fcd10f9,:1.103/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Apr 01 18:23:55 fedora brave-browser.desktop[3169]: [3170:3170:0401/182355.677043:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (1033.09s) location=FadeAnimationDelegate@chrome/browser/ui/views/tabs/alert_indicator_button.cc:125
+Apr 01 18:24:20 fedora systemd[1]: fprintd.service: Deactivated successfully.
+Apr 01 18:24:20 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 18:24:20 fedora audit: BPF prog-id=123 op=UNLOAD
+Apr 01 18:25:50 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.8.8.
+Apr 01 18:25:55 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.4.4.
+Apr 01 18:26:08 fedora systemd[2123]: app-gnome-org.gnome.SystemMonitor-6209.scope: Consumed 2min 55.380s CPU time, 58.4M memory peak.
+Apr 01 18:26:32 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.8.8.
+Apr 01 18:27:08 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.4.4.
+Apr 01 18:27:39 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.8.8.
+Apr 01 18:27:44 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.4.4.
+Apr 01 18:27:48 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:27:48 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:28:02 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:28:03 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:28:18 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:28:18 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:28:20 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.8.8.
+Apr 01 18:28:56 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.4.4.
+Apr 01 18:29:02 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:29:13 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:29:28 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.8.8.
+Apr 01 18:29:38 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:29:41 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:29:49 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.4.4.
+Apr 01 18:30:22 fedora cupsd[1286]: REQUEST localhost - - "POST / HTTP/1.1" 200 184 Renew-Subscription successful-ok
+Apr 01 18:30:25 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.8.8.
+Apr 01 18:30:56 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:31:06 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:31:06 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:31:06 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:31:31 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:32:58 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:32:58 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:33:13 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:33:13 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:33:28 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:33:28 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:33:48 fedora NetworkManager[1241]: <info>  [1775048628.8863] dhcp4 (wlo1): state changed new lease, address=172.20.167.1
+Apr 01 18:33:48 fedora systemd[1]: Starting NetworkManager-dispatcher.service - Network Manager Script Dispatcher Service...
+Apr 01 18:33:48 fedora systemd[1]: Started NetworkManager-dispatcher.service - Network Manager Script Dispatcher Service.
+Apr 01 18:33:48 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=NetworkManager-dispatcher comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 18:33:58 fedora systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Apr 01 18:33:58 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=NetworkManager-dispatcher comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 18:34:03 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:34:03 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:34:32 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:34:32 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:34:32 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:34:32 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:35:09 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:35:09 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:08 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:09 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:11 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:11 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:12 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:12 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:13 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:13 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:14 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:15 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:53 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:53 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:55 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:55 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:58 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:36:58 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:00 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:00 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:01 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:01 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:06 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:07 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:11 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:11 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:16 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:16 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:16 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:16 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:21 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:21 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:21 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:21 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:37 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:37 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:38 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:38 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:42 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:43 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:44 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:44 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:47 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:47 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:48 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:49 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:59 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:37:59 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:00 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:00 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:09 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:09 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:10 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:10 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:13 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:38:13 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:38:16 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:16 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:18 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:18 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:20 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:21 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:21 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:21 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:23 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:23 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:24 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:24 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:29 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:29 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:30 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:30 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:32 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:32 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:32 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:32 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:37 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:37 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:40 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:41 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:44 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:44 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:44 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:44 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:53 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:53 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:53 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:38:53 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:10 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:10 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:10 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:10 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:13 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:13 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:15 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:15 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:28 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:28 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:35 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:35 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:39:37 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:10 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:10 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:15 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:15 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:26 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:26 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:33 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:33 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:47 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:51 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:52 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:53 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:40:58 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:41:00 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:41:01 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:41:33 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:41:33 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:42:24 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:42:24 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:42:31 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:42:31 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:42:36 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:42:36 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:42:46 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:07 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:08 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:08 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:08 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:11 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:13 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:13 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:13 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:41 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:42 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:42 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:43:42 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:44:25 fedora kernel: NVRM: GPU at PCI:0000:01:00: GPU-21f79233-4df9-287a-e042-5e41436f26d9
+Apr 01 18:44:25 fedora kernel: NVRM: Xid (PCI:0000:01:00): 32, pid=67066, name=npong, channel 0x00000021 intr0 00040000
+Apr 01 18:44:25 fedora kernel: NVRM: Xid (PCI:0000:01:00): 32, pid=67066, name=npong, channel 0x00000021 intr0 00040000
+Apr 01 18:44:38 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:44:39 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:44:41 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:44:41 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:45:12 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:45:12 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:45:50 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:45:50 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:46:57 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:46:57 fedora org.mozilla.firefox.desktop[5668]: (as)
+Apr 01 18:46:57 fedora gnome-shell[2305]: Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag
+Apr 01 18:46:57 fedora systemd[2123]: Started dbus-:1.2-org.gnome.Calculator.SearchProvider@4.service.
+Apr 01 18:46:57 fedora systemd[2123]: Started dbus-:1.2-org.gnome.Characters@4.service.
+Apr 01 18:46:57 fedora systemd[2123]: Started dbus-:1.2-org.gnome.Contacts.SearchProvider@4.service.
+Apr 01 18:46:57 fedora systemd[2123]: Started dbus-:1.2-org.gnome.Settings.SearchProvider@4.service.
+Apr 01 18:46:57 fedora systemd[2123]: Started dbus-:1.2-org.gnome.clocks@4.service.
+Apr 01 18:46:58 fedora gnome-character[67875]: JS LOG: Characters Application started
+Apr 01 18:46:59 fedora systemd[2123]: Started app-gnome-md.obsidian.Obsidian-67938.scope - Application launched by gnome-shell.
+Apr 01 18:46:59 fedora systemd[2123]: Starting flatpak-session-helper.service - flatpak session helper...
+Apr 01 18:46:59 fedora systemd[2123]: Started flatpak-session-helper.service - flatpak session helper.
+Apr 01 18:46:59 fedora systemd[2123]: Started app-flatpak-md.obsidian.Obsidian-2859740591.scope.
+Apr 01 18:46:59 fedora systemd[2123]: Starting flatpak-portal.service - flatpak portal...
+Apr 01 18:46:59 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:46:59 fedora systemd[2123]: Started flatpak-portal.service - flatpak portal.
+Apr 01 18:46:59 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:46:59 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:46:59 fedora systemd[2123]: Started app-flatpak-md.obsidian.Obsidian-2947329727.scope.
+Apr 01 18:47:00 fedora md.obsidian.Obsidian.desktop[67961]: [2:0401/184700.035875:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+Apr 01 18:47:00 fedora md.obsidian.Obsidian.desktop[68033]: LaunchProcess: failed to execvp:
+Apr 01 18:47:00 fedora md.obsidian.Obsidian.desktop[68033]: xdg-settings
+Apr 01 18:47:00 fedora md.obsidian.Obsidian.desktop[67961]: 2026-04-01 13:17:00 Loaded main app package /app/resources/obsidian.asar
+Apr 01 18:47:00 fedora obsidian[67961]: Failed to load module "canberra-gtk-module"
+Apr 01 18:47:00 fedora obsidian[67961]: Failed to load module "pk-gtk-module"
+Apr 01 18:47:00 fedora obsidian[67961]: Failed to load module "canberra-gtk-module"
+Apr 01 18:47:00 fedora obsidian[67961]: Failed to load module "pk-gtk-module"
+Apr 01 18:47:00 fedora gnome-keyring-daemon[2145]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 01 18:47:00 fedora md.obsidian.Obsidian.desktop[67961]: 2026-04-01 13:17:00 Checking for update using Github
+Apr 01 18:47:00 fedora md.obsidian.Obsidian.desktop[67961]: 2026-04-01 13:17:00 Success.
+Apr 01 18:47:00 fedora md.obsidian.Obsidian.desktop[67961]: 2026-04-01 13:17:00 Latest version is 1.12.7
+Apr 01 18:47:00 fedora md.obsidian.Obsidian.desktop[67961]: 2026-04-01 13:17:00 App is up to date.
+Apr 01 18:47:01 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:47:01 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:47:08 fedora gnome-character[67875]: JS LOG: Characters Application exiting
+Apr 01 18:48:28 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:48:28 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:48:58 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:48:58 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 18:49:28 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:49:28 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:51:31 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:51:32 fedora systemd[2123]: app-flatpak-md.obsidian.Obsidian-2859740591.scope: Consumed 1min 3.671s CPU time, 953.5M memory peak.
+Apr 01 18:51:32 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:53:27 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:53:38 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:53:38 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:54:08 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:54:08 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:56:44 fedora audit: BPF prog-id=124 op=LOAD
+Apr 01 18:56:44 fedora systemd[1]: Starting fprintd.service - Fingerprint Authentication Daemon...
+Apr 01 18:56:44 fedora systemd[1]: Started fprintd.service - Fingerprint Authentication Daemon.
+Apr 01 18:56:44 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 18:56:46 fedora gdm-password][68684]: gkr-pam: unlocked login keyring
+Apr 01 18:56:46 fedora audit[68684]: USER_AUTH pid=68684 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:authentication grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 18:56:46 fedora audit[68684]: USER_ACCT pid=68684 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:accounting grantors=pam_unix acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 18:56:46 fedora audit[68684]: CRED_REFR pid=68684 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:setcred grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 18:56:46 fedora NetworkManager[1241]: <info>  [1775050006.7869] agent-manager: agent[f0bbbba230f197bf,:1.103/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Apr 01 18:56:46 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:56:58 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:56:58 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:57:14 fedora systemd[1]: fprintd.service: Deactivated successfully.
+Apr 01 18:57:14 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 18:57:14 fedora audit: BPF prog-id=124 op=UNLOAD
+Apr 01 18:58:49 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:58:53 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 18:58:53 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 18:59:09 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:59:09 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:59:29 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 18:59:29 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:00:59 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:01:00 fedora CROND[69686]: (root) CMD (run-parts /etc/cron.hourly)
+Apr 01 19:01:00 fedora run-parts[69689]: (/etc/cron.hourly) starting 0anacron
+Apr 01 19:01:00 fedora run-parts[69695]: (/etc/cron.hourly) finished 0anacron
+Apr 01 19:01:00 fedora CROND[69685]: (root) CMDEND (run-parts /etc/cron.hourly)
+Apr 01 19:01:31 fedora systemd[2123]: flatpak-portal.service: Consumed 240ms CPU time, 409.1M memory peak.
+Apr 01 19:02:11 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:02:11 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:02:34 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:02:34 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:02:41 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:02:41 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:04:03 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 19:04:03 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 19:08:24 fedora audit: BPF prog-id=125 op=LOAD
+Apr 01 19:08:24 fedora systemd[1]: Starting fprintd.service - Fingerprint Authentication Daemon...
+Apr 01 19:08:24 fedora systemd[1]: Started fprintd.service - Fingerprint Authentication Daemon.
+Apr 01 19:08:24 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 19:08:29 fedora gdm-password][70425]: gkr-pam: unlocked login keyring
+Apr 01 19:08:29 fedora audit[70425]: USER_AUTH pid=70425 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:authentication grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 19:08:29 fedora audit[70425]: USER_ACCT pid=70425 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:accounting grantors=pam_unix acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 19:08:29 fedora audit[70425]: CRED_REFR pid=70425 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:setcred grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 19:08:29 fedora NetworkManager[1241]: <info>  [1775050709.4279] agent-manager: agent[6fe9a01b479b7548,:1.103/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Apr 01 19:08:29 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:08:29 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:08:45 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:08:45 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:08:54 fedora systemd[1]: fprintd.service: Deactivated successfully.
+Apr 01 19:08:54 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 19:08:54 fedora audit: BPF prog-id=125 op=UNLOAD
+Apr 01 19:08:59 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:08:59 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:09:08 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 19:09:08 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 19:09:10 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:09:10 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:09:38 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 19:09:38 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 19:10:26 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.4.4.
+Apr 01 19:10:57 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.8.8.
+Apr 01 19:11:02 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.4.4.
+Apr 01 19:11:38 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.8.8.
+Apr 01 19:11:46 fedora systemd[2123]: Started app-gnome-com.spotify.Client-70713.scope - Application launched by gnome-shell.
+Apr 01 19:11:46 fedora systemd[2123]: Started app-flatpak-com.spotify.Client-657635421.scope.
+Apr 01 19:11:46 fedora spotify[70735]: libayatana-appindicator is deprecated. Please use libayatana-appindicator-glib in newly written code.
+Apr 01 19:11:49 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.4.4.
+Apr 01 19:12:09 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.4.4.
+Apr 01 19:12:50 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.8.8.
+Apr 01 19:12:56 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.4.4.
+Apr 01 19:12:58 fedora brave-browser.desktop[3169]: [3217:3224:0401/191258.336859:ERROR:net/socket/ssl_client_socket_impl.cc:918] handshake failed; returned -1, SSL error code 1, net_error -101
+Apr 01 19:13:06 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.8.8.
+Apr 01 19:13:08 fedora brave-browser.desktop[3169]: [3217:3224:0401/191308.336883:ERROR:net/socket/ssl_client_socket_impl.cc:918] handshake failed; returned -1, SSL error code 1, net_error -101
+Apr 01 19:13:16 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.4.4.
+Apr 01 19:14:08 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.4.4.
+Apr 01 19:14:18 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.8.8.
+Apr 01 19:14:24 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.4.4.
+Apr 01 19:14:39 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.8.8.
+Apr 01 19:17:14 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:17:14 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:17:19 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:17:19 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:17:59 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:17:59 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:18:00 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:18:00 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:18:02 fedora org.mozilla.firefox.desktop[5668]: (as)
+Apr 01 19:18:02 fedora gnome-shell[2305]: Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag
+Apr 01 19:18:02 fedora systemd[2123]: Started dbus-:1.2-org.gnome.Calculator.SearchProvider@5.service.
+Apr 01 19:18:02 fedora systemd[2123]: Started dbus-:1.2-org.gnome.Characters@5.service.
+Apr 01 19:18:02 fedora systemd[2123]: Started dbus-:1.2-org.gnome.Contacts.SearchProvider@5.service.
+Apr 01 19:18:02 fedora systemd[2123]: Started dbus-:1.2-org.gnome.Settings.SearchProvider@5.service.
+Apr 01 19:18:02 fedora systemd[2123]: Started dbus-:1.2-org.gnome.clocks@5.service.
+Apr 01 19:18:02 fedora gnome-character[71809]: JS LOG: Characters Application started
+Apr 01 19:18:02 fedora org.mozilla.firefox.desktop[5668]: (asas)
+Apr 01 19:18:02 fedora gnome-shell[2305]: Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag
+Apr 01 19:18:03 fedora org.mozilla.firefox.desktop[5668]: (asas)
+Apr 01 19:18:03 fedora gnome-shell[2305]: Received error from D-Bus search provider org.gnome.Boxes.desktop: Gio.IOErrorEnum: Cannot invoke method; proxy is for the well-known name org.gnome.Boxes.SearchProvider without an owner, and proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag
+Apr 01 19:18:03 fedora systemd[2123]: Started app-gnome-md.obsidian.Obsidian-71884.scope - Application launched by gnome-shell.
+Apr 01 19:18:03 fedora systemd[2123]: Started app-flatpak-md.obsidian.Obsidian-1735474026.scope.
+Apr 01 19:18:03 fedora systemd[2123]: Starting flatpak-portal.service - flatpak portal...
+Apr 01 19:18:03 fedora systemd[2123]: Started flatpak-portal.service - flatpak portal.
+Apr 01 19:18:04 fedora systemd[2123]: Started app-flatpak-md.obsidian.Obsidian-169131334.scope.
+Apr 01 19:18:04 fedora md.obsidian.Obsidian.desktop[71900]: [2:0401/191804.298411:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+Apr 01 19:18:04 fedora md.obsidian.Obsidian.desktop[71961]: LaunchProcess: failed to execvp:
+Apr 01 19:18:04 fedora md.obsidian.Obsidian.desktop[71961]: xdg-settings
+Apr 01 19:18:04 fedora md.obsidian.Obsidian.desktop[71900]: 2026-04-01 13:48:04 Loaded main app package /app/resources/obsidian.asar
+Apr 01 19:18:04 fedora obsidian[71900]: Failed to load module "canberra-gtk-module"
+Apr 01 19:18:04 fedora obsidian[71900]: Failed to load module "pk-gtk-module"
+Apr 01 19:18:04 fedora obsidian[71900]: Failed to load module "canberra-gtk-module"
+Apr 01 19:18:04 fedora obsidian[71900]: Failed to load module "pk-gtk-module"
+Apr 01 19:18:04 fedora gnome-keyring-daemon[2145]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Apr 01 19:18:04 fedora md.obsidian.Obsidian.desktop[71900]: 2026-04-01 13:48:04 Checking for update using Github
+Apr 01 19:18:04 fedora md.obsidian.Obsidian.desktop[71900]: 2026-04-01 13:48:04 Success.
+Apr 01 19:18:04 fedora md.obsidian.Obsidian.desktop[71900]: 2026-04-01 13:48:04 Latest version is 1.12.7
+Apr 01 19:18:04 fedora md.obsidian.Obsidian.desktop[71900]: 2026-04-01 13:48:04 App is up to date.
+Apr 01 19:18:13 fedora gnome-character[71809]: JS LOG: Characters Application exiting
+Apr 01 19:19:33 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 19:19:33 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 19:20:20 fedora systemd[2123]: app-flatpak-md.obsidian.Obsidian-1735474026.scope: Consumed 26.188s CPU time, 826.6M memory peak.
+Apr 01 19:20:21 fedora brave-browser.desktop[3169]: [3170:3170:0401/192021.472455:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (120.034s) location=FadeAnimationDelegate@chrome/browser/ui/views/tabs/alert_indicator_button.cc:125
+Apr 01 19:20:24 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:20:24 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:21:30 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:21:30 fedora gnome-shell[2305]: meta_window_set_stack_position_no_sync: assertion 'window->stack_position >= 0' failed
+Apr 01 19:28:42 fedora cupsd[1286]: REQUEST localhost - - "POST / HTTP/1.1" 200 184 Renew-Subscription successful-ok
+Apr 01 19:30:05 fedora audit: BPF prog-id=126 op=LOAD
+Apr 01 19:30:05 fedora systemd[1]: Starting fprintd.service - Fingerprint Authentication Daemon...
+Apr 01 19:30:05 fedora systemd[1]: Started fprintd.service - Fingerprint Authentication Daemon.
+Apr 01 19:30:05 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 19:30:07 fedora gdm-password][72243]: gkr-pam: unlocked login keyring
+Apr 01 19:30:07 fedora audit[72243]: USER_AUTH pid=72243 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:authentication grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 19:30:07 fedora audit[72243]: USER_ACCT pid=72243 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:accounting grantors=pam_unix acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 19:30:07 fedora audit[72243]: CRED_REFR pid=72243 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:setcred grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 19:30:07 fedora NetworkManager[1241]: <info>  [1775052007.7556] agent-manager: agent[4feaf7b4997ec0c7,:1.103/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Apr 01 19:30:20 fedora systemd[2123]: flatpak-portal.service: Consumed 238ms CPU time, 361.2M memory peak.
+Apr 01 19:30:35 fedora systemd[1]: fprintd.service: Deactivated successfully.
+Apr 01 19:30:35 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 19:30:35 fedora audit: BPF prog-id=126 op=UNLOAD
+Apr 01 19:32:06 fedora brave-browser.desktop[3169]: [3170:3170:0401/193206.356870:ERROR:ui/ozone/platform/wayland/host/wayland_frame_manager.cc:662] The server has buggy presentation feedback. Discarding all presentation feedback requests in all frames except the last 3.
+Apr 01 19:32:08 fedora brave-browser.desktop[3169]: [3170:3170:0401/193208.067595:ERROR:ui/ozone/platform/wayland/host/wayland_frame_manager.cc:662] The server has buggy presentation feedback. Discarding all presentation feedback requests in all frames except the last 3.
+Apr 01 19:32:09 fedora brave-browser.desktop[3169]: [3170:3170:0401/193209.773639:ERROR:ui/ozone/platform/wayland/host/wayland_frame_manager.cc:662] The server has buggy presentation feedback. Discarding all presentation feedback requests in all frames except the last 3.
+Apr 01 19:32:11 fedora brave-browser.desktop[3169]: [3170:3170:0401/193211.481308:ERROR:ui/ozone/platform/wayland/host/wayland_frame_manager.cc:662] The server has buggy presentation feedback. Discarding all presentation feedback requests in all frames except the last 3.
+Apr 01 19:32:12 fedora brave-browser.desktop[3169]: [3170:3170:0401/193212.893526:ERROR:ui/ozone/platform/wayland/host/wayland_frame_manager.cc:662] The server has buggy presentation feedback. Discarding all presentation feedback requests in all frames except the last 3.
+Apr 01 19:32:13 fedora brave-browser.desktop[3169]: [3170:3170:0401/193213.289178:ERROR:ui/ozone/platform/wayland/host/wayland_frame_manager.cc:662] The server has buggy presentation feedback. Discarding all presentation feedback requests in all frames except the last 3.
+Apr 01 19:32:13 fedora brave-browser.desktop[3169]: [3170:3170:0401/193213.558541:ERROR:ui/ozone/platform/wayland/host/wayland_frame_manager.cc:662] The server has buggy presentation feedback. Discarding all presentation feedback requests in all frames except the last 3.
+Apr 01 19:32:13 fedora brave-browser.desktop[3169]: [3170:3170:0401/193213.991365:ERROR:ui/ozone/platform/wayland/host/wayland_frame_manager.cc:662] The server has buggy presentation feedback. Discarding all presentation feedback requests in all frames except the last 3.
+Apr 01 19:32:14 fedora brave-browser.desktop[3169]: [3170:3170:0401/193214.641411:ERROR:ui/ozone/platform/wayland/host/wayland_frame_manager.cc:662] The server has buggy presentation feedback. Discarding all presentation feedback requests in all frames except the last 3.
+Apr 01 19:34:58 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 19:34:58 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 19:35:28 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 19:35:28 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 19:37:25 fedora audit: BPF prog-id=127 op=LOAD
+Apr 01 19:37:25 fedora systemd[1]: Starting fprintd.service - Fingerprint Authentication Daemon...
+Apr 01 19:37:25 fedora systemd[1]: Started fprintd.service - Fingerprint Authentication Daemon.
+Apr 01 19:37:25 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 19:37:29 fedora gdm-password][72477]: gkr-pam: unlocked login keyring
+Apr 01 19:37:29 fedora audit[72477]: USER_AUTH pid=72477 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:authentication grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 19:37:30 fedora audit[72477]: USER_ACCT pid=72477 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:accounting grantors=pam_unix acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 19:37:30 fedora audit[72477]: CRED_REFR pid=72477 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:setcred grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 19:37:30 fedora NetworkManager[1241]: <info>  [1775052450.1810] agent-manager: agent[61c4cd4bcc3d2e23,:1.103/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Apr 01 19:37:55 fedora systemd[1]: fprintd.service: Deactivated successfully.
+Apr 01 19:37:55 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 19:37:55 fedora audit: BPF prog-id=127 op=UNLOAD
+Apr 01 19:39:49 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.4.4.
+Apr 01 19:39:59 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.8.8.
+Apr 01 19:40:20 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.4.4.
+Apr 01 19:40:36 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.8.8.
+Apr 01 19:41:38 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.4.4.
+Apr 01 19:41:48 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.8.8.
+Apr 01 19:41:53 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.4.4.
+Apr 01 19:42:09 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.8.8.
+Apr 01 19:46:16 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.8.8.
+Apr 01 19:48:01 fedora brave-browser.desktop[3169]: [3216:3320:0401/194801.258553:ERROR:components/viz/service/display/display.cc:275] Frame latency is negative: -0.021 ms
+Apr 01 19:49:58 fedora wpa_supplicant[1270]: wlo1: PMKSA-CACHE-ADDED 70:3a:0e:e8:0d:e2 0
+Apr 01 19:50:19 fedora brave-browser.desktop[3169]: [3170:3170:0401/195019.217516:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (111.988s) location=GlowHoverController@chrome/browser/ui/views/tabs/glow_hover_controller.cc:17
+Apr 01 19:50:33 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 19:50:33 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 19:52:33 fedora brave-browser.desktop[3169]: [3170:3170:0401/195233.774874:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (72.989s) location=FadeAnimationDelegate@chrome/browser/ui/views/tabs/alert_indicator_button.cc:125
+Apr 01 20:00:53 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:00:53 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 20:01:00 fedora CROND[73495]: (root) CMD (run-parts /etc/cron.hourly)
+Apr 01 20:01:00 fedora run-parts[73498]: (/etc/cron.hourly) starting 0anacron
+Apr 01 20:01:00 fedora run-parts[73504]: (/etc/cron.hourly) finished 0anacron
+Apr 01 20:01:00 fedora CROND[73494]: (root) CMDEND (run-parts /etc/cron.hourly)
+Apr 01 20:05:13 fedora systemd[1]: Starting dnf-makecache.service - dnf5 makecache...
+Apr 01 20:05:13 fedora dnf5[73562]: Updating and loading repositories:
+Apr 01 20:05:14 fedora dnf5[73562]: Repositories loaded.
+Apr 01 20:05:14 fedora dnf5[73562]: Metadata cache created.
+Apr 01 20:05:14 fedora systemd[1]: dnf-makecache.service: Deactivated successfully.
+Apr 01 20:05:14 fedora systemd[1]: Finished dnf-makecache.service - dnf5 makecache.
+Apr 01 20:05:14 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 20:05:14 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=dnf-makecache comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 20:05:14 fedora systemd[1]: dnf-makecache.service: Consumed 713ms CPU time, 245M memory peak.
+Apr 01 20:06:03 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:06:03 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 20:11:13 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:11:13 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 20:15:33 fedora kernel: usb 3-1: USB disconnect, device number 2
+Apr 01 20:15:33 fedora keyd[1012]: DEVICE: removed        1bcf:08a0:f5fe3d14 HID 1bcf:08a0 Mouse
+Apr 01 20:15:33 fedora keyd[1012]: DEVICE: removed        1bcf:08a0:be213eeb HID 1bcf:08a0 Keyboard
+Apr 01 20:15:33 fedora keyd[1012]: DEVICE: removed        1bcf:08a0:1be3ae46 HID 1bcf:08a0
+Apr 01 20:15:35 fedora kernel: usb 3-2: USB disconnect, device number 3
+Apr 01 20:15:35 fedora keyd[1012]: DEVICE: removed        258a:002a:75e84400 SINO WEALTH Gaming KB
+Apr 01 20:15:35 fedora keyd[1012]: DEVICE: removed        258a:002a:619dc7a6 SINO WEALTH Gaming KB  System Control
+Apr 01 20:15:35 fedora keyd[1012]: DEVICE: removed        258a:002a:e7799ad4 SINO WEALTH Gaming KB  Consumer Control
+Apr 01 20:15:35 fedora keyd[1012]: DEVICE: removed        258a:002a:65e37239 SINO WEALTH Gaming KB  Keyboard
+Apr 01 20:16:55 fedora audit: BPF prog-id=128 op=LOAD
+Apr 01 20:16:55 fedora systemd[1]: Starting fprintd.service - Fingerprint Authentication Daemon...
+Apr 01 20:16:55 fedora systemd[1]: Started fprintd.service - Fingerprint Authentication Daemon.
+Apr 01 20:16:55 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 20:17:25 fedora systemd[1]: fprintd.service: Deactivated successfully.
+Apr 01 20:17:25 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 20:17:25 fedora audit: BPF prog-id=128 op=UNLOAD
+Apr 01 20:21:13 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:21:13 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 20:21:48 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:21:48 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 20:22:22 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:22:22 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 20:22:57 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:22:57 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:a7:73:b0 failed
+Apr 01 20:23:43 fedora audit: BPF prog-id=129 op=LOAD
+Apr 01 20:23:43 fedora systemd[1]: Starting fprintd.service - Fingerprint Authentication Daemon...
+Apr 01 20:23:43 fedora systemd[1]: Started fprintd.service - Fingerprint Authentication Daemon.
+Apr 01 20:23:43 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 20:23:47 fedora gdm-password][73952]: pam_unix(gdm-password:auth): authentication failure; logname=nigam uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=nigam
+Apr 01 20:23:47 fedora gdm-password][73952]: gkr-pam: the password for the login keyring was invalid.
+Apr 01 20:23:47 fedora audit[73952]: USER_AUTH pid=73952 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:authentication grantors=? acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=failed'
+Apr 01 20:24:13 fedora systemd[1]: fprintd.service: Deactivated successfully.
+Apr 01 20:24:13 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 20:24:13 fedora audit: BPF prog-id=129 op=UNLOAD
+Apr 01 20:24:14 fedora gdm-password][73983]: gkr-pam: unlocked login keyring
+Apr 01 20:24:14 fedora audit[73983]: USER_AUTH pid=73983 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:authentication grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 20:24:14 fedora audit[73983]: USER_ACCT pid=73983 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:accounting grantors=pam_unix acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 20:24:14 fedora audit[73983]: CRED_REFR pid=73983 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:setcred grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 20:24:14 fedora NetworkManager[1241]: <info>  [1775055254.9980] agent-manager: agent[d3fe69919dff2de3,:1.103/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Apr 01 20:24:22 fedora systemd[2123]: app-gnome-org.mozilla.firefox-5668.scope: Consumed 2min 655ms CPU time, 899.4M memory peak.
+Apr 01 20:24:25 fedora brave-browser.desktop[3169]: [3170:3170:0401/202425.426796:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (1908.44s) location=FadeAnimationDelegate@chrome/browser/ui/views/tabs/alert_indicator_button.cc:125
+Apr 01 20:26:05 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.4.4.
+Apr 01 20:27:02 fedora cupsd[1286]: REQUEST localhost - - "POST / HTTP/1.1" 200 184 Renew-Subscription successful-ok
+Apr 01 20:28:26 fedora wpa_supplicant[1270]: wlo1: Reject scan trigger since one is already pending
+Apr 01 20:33:48 fedora NetworkManager[1241]: <info>  [1775055828.8837] dhcp4 (wlo1): state changed new lease, address=172.20.167.1
+Apr 01 20:33:48 fedora systemd[1]: Starting NetworkManager-dispatcher.service - Network Manager Script Dispatcher Service...
+Apr 01 20:33:48 fedora systemd[1]: Started NetworkManager-dispatcher.service - Network Manager Script Dispatcher Service.
+Apr 01 20:33:48 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=NetworkManager-dispatcher comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 20:33:58 fedora systemd[1]: NetworkManager-dispatcher.service: Deactivated successfully.
+Apr 01 20:33:58 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=NetworkManager-dispatcher comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 20:34:06 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:34:06 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 20:34:36 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:34:36 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 20:34:50 fedora brave-browser.desktop[3169]: [75012:27:0401/203450.902041:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:500] A BUNDLE group contains a codec collision between [111: audio/opus] and [111: audio/opus]. All codecs must share the same type, encoding name, clock rate and parameters. (INVALID_PARAMETER)
+Apr 01 20:34:51 fedora brave-browser.desktop[3169]: [75012:27:0401/203451.900437:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:500] A BUNDLE group contains a codec collision between [111: audio/opus] and [111: audio/opus]. All codecs must share the same type, encoding name, clock rate and parameters. (INVALID_PARAMETER)
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.724079:ERROR:ui/gl/angle_platform_impl.cc:47] ImageEGL.cpp:112 (operator()): eglCreateImage failed with 0x00003009
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: ERR: ImageEGL.cpp:112 (operator()): eglCreateImage failed with 0x00003009
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.724195:ERROR:ui/gl/scoped_egl_image.cc:23] Failed to create EGLImage: EGL_SUCCESS
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.724275:ERROR:ui/ozone/common/native_pixmap_egl_binding.cc:75] Unable to initialize binding from pixmap
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.724420:ERROR:gpu/command_buffer/service/shared_image/ozone_image_backing.cc:315] OzoneImageBacking::ProduceSkiaGanesh failed to create GL representation
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.724482:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:259] SharedImageManager::ProduceSkia: Trying to produce a Skia representation from an incompatible backing: OzoneImageBacking
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.724539:ERROR:gpu/command_buffer/service/raster_decoder.cc:1880] [.RendererBlinkWorker-0x320413749e00]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: unknown mailbox
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.783696:ERROR:ui/gl/angle_platform_impl.cc:47] ImageEGL.cpp:112 (operator()): eglCreateImage failed with 0x00003009
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: ERR: ImageEGL.cpp:112 (operator()): eglCreateImage failed with 0x00003009
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.783806:ERROR:ui/gl/scoped_egl_image.cc:23] Failed to create EGLImage: EGL_SUCCESS
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.783866:ERROR:ui/ozone/common/native_pixmap_egl_binding.cc:75] Unable to initialize binding from pixmap
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.783983:ERROR:gpu/command_buffer/service/shared_image/ozone_image_backing.cc:315] OzoneImageBacking::ProduceSkiaGanesh failed to create GL representation
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.784040:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:259] SharedImageManager::ProduceSkia: Trying to produce a Skia representation from an incompatible backing: OzoneImageBacking
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.784098:ERROR:gpu/command_buffer/service/raster_decoder.cc:1880] [.RendererBlinkWorker-0x320413749e00]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: unknown mailbox
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.801071:ERROR:ui/gl/angle_platform_impl.cc:47] ImageEGL.cpp:112 (operator()): eglCreateImage failed with 0x00003009
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: ERR: ImageEGL.cpp:112 (operator()): eglCreateImage failed with 0x00003009
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.801159:ERROR:ui/gl/scoped_egl_image.cc:23] Failed to create EGLImage: EGL_SUCCESS
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.801202:ERROR:ui/ozone/common/native_pixmap_egl_binding.cc:75] Unable to initialize binding from pixmap
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.801293:ERROR:gpu/command_buffer/service/shared_image/ozone_image_backing.cc:315] OzoneImageBacking::ProduceSkiaGanesh failed to create GL representation
+Apr 01 20:34:59 fedora brave-browser.desktop[3169]: [3216:3216:0401/203459.801336:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:259] SharedImageManager::ProduceSkia: Trying to produce a Skia representation from an incompatible backing: OzoneImageBacking
+Apr 01 20:35:40 fedora brave-browser.desktop[3169]: [75012:27:0401/203540.483625:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:500] A BUNDLE group contains a codec collision between [111: audio/opus] and [111: audio/opus]. All codecs must share the same type, encoding name, clock rate and parameters. (INVALID_PARAMETER)
+Apr 01 20:43:56 fedora wpa_supplicant[1270]: wlo1: PMKSA-CACHE-ADDED 54:f0:b1:23:6d:61 0
+Apr 01 20:47:10 fedora brave-browser.desktop[3169]: [75012:27:0401/204710.853580:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:500] A BUNDLE group contains a codec collision between [111: audio/opus] and [111: audio/opus]. All codecs must share the same type, encoding name, clock rate and parameters. (INVALID_PARAMETER)
+Apr 01 20:47:13 fedora brave-browser.desktop[3169]: [75012:28:0401/204713.643635:ERROR:third_party/webrtc/pc/srtp_transport.cc:132] Failed to unprotect RTP packet: size=107, seqnum=17169, SSRC=6667, previous failure count: 0
+Apr 01 20:49:41 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:49:41 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 20:50:22 fedora brave-browser.desktop[3169]: [75012:28:0401/205022.898328:ERROR:third_party/webrtc/pc/srtp_transport.cc:132] Failed to unprotect RTP packet: size=137, seqnum=22320, SSRC=6667, previous failure count: 100
+Apr 01 20:52:58 fedora brave-browser.desktop[3169]: [75012:28:0401/205258.177943:ERROR:third_party/webrtc/pc/srtp_transport.cc:132] Failed to unprotect RTP packet: size=123, seqnum=27925, SSRC=6667, previous failure count: 200
+Apr 01 20:54:46 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:54:46 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 20:55:16 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 20:55:16 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 20:56:26 fedora brave-browser.desktop[3169]: [75012:28:0401/205626.152047:ERROR:third_party/webrtc/pc/srtp_transport.cc:132] Failed to unprotect RTP packet: size=127, seqnum=33843, SSRC=6667, previous failure count: 300
+Apr 01 20:59:46 fedora brave-browser.desktop[3169]: [75012:28:0401/205946.481730:ERROR:third_party/webrtc/pc/srtp_transport.cc:132] Failed to unprotect RTP packet: size=102, seqnum=39276, SSRC=6667, previous failure count: 400
+Apr 01 21:01:00 fedora CROND[77118]: (root) CMD (run-parts /etc/cron.hourly)
+Apr 01 21:01:00 fedora run-parts[77121]: (/etc/cron.hourly) starting 0anacron
+Apr 01 21:01:00 fedora run-parts[77127]: (/etc/cron.hourly) finished 0anacron
+Apr 01 21:01:00 fedora CROND[77117]: (root) CMDEND (run-parts /etc/cron.hourly)
+Apr 01 21:02:41 fedora brave-browser.desktop[3169]: [75012:28:0401/210241.472073:ERROR:third_party/webrtc/pc/srtp_transport.cc:132] Failed to unprotect RTP packet: size=126, seqnum=44713, SSRC=6667, previous failure count: 500
+Apr 01 21:03:13 fedora brave-browser.desktop[3169]: [75012:27:0401/210313.185710:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:500] A BUNDLE group contains a codec collision between [111: audio/opus] and [111: audio/opus]. All codecs must share the same type, encoding name, clock rate and parameters. (INVALID_PARAMETER)
+Apr 01 21:03:18 fedora brave-browser.desktop[3169]: [75012:27:0401/210318.670888:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:500] A BUNDLE group contains a codec collision between [111: audio/opus] and [111: audio/opus]. All codecs must share the same type, encoding name, clock rate and parameters. (INVALID_PARAMETER)
+Apr 01 21:03:18 fedora brave-browser.desktop[3169]: [75012:27:0401/210318.671513:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:4138] Transceiver not found based on m-line index (INVALID_PARAMETER)
+Apr 01 21:04:38 fedora brave-browser.desktop[3169]: [3216:3320:0401/210438.003716:ERROR:components/viz/service/display/display.cc:275] Frame latency is negative: -0.062 ms
+Apr 01 21:05:11 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.8.8.
+Apr 01 21:05:11 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 21:05:11 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 21:05:21 fedora systemd-resolved[960]: Using degraded feature set TCP instead of UDP for DNS server 8.8.4.4.
+Apr 01 21:05:41 fedora brave-browser.desktop[3169]: [3217:3224:0401/210541.649387:ERROR:net/socket/ssl_client_socket_impl.cc:918] handshake failed; returned -1, SSL error code 1, net_error -101
+Apr 01 21:05:51 fedora brave-browser.desktop[3169]: [3217:3224:0401/210551.728099:ERROR:net/socket/ssl_client_socket_impl.cc:918] handshake failed; returned -1, SSL error code 1, net_error -101
+Apr 01 21:15:31 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 21:15:31 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 21:16:32 fedora kernel: perf: interrupt took too long (2511 > 2500), lowering kernel.perf_event_max_sample_rate to 79000
+Apr 01 21:19:44 fedora kernel: perf: interrupt took too long (3279 > 3138), lowering kernel.perf_event_max_sample_rate to 61000
+Apr 01 21:22:16 fedora systemd[2123]: Started app-gnome-nautilus-79447.scope - Application launched by gsd-media-keys.
+Apr 01 21:22:16 fedora nautilus[79447]: Connecting to org.freedesktop.Tracker3.Miner.Files
+Apr 01 21:22:16 fedora audit: BPF prog-id=122 op=UNLOAD
+Apr 01 21:22:16 fedora audit: BPF prog-id=121 op=UNLOAD
+Apr 01 21:22:16 fedora audit: BPF prog-id=130 op=LOAD
+Apr 01 21:22:16 fedora audit: BPF prog-id=131 op=LOAD
+Apr 01 21:22:16 fedora audit: BPF prog-id=132 op=LOAD
+Apr 01 21:22:16 fedora systemd[1]: Starting systemd-hostnamed.service - Hostname Service...
+Apr 01 21:22:16 fedora systemd[1]: Started systemd-hostnamed.service - Hostname Service.
+Apr 01 21:22:16 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-hostnamed comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 21:22:24 fedora systemd[2123]: Started dbus-:1.2-org.gnome.evince.Daemon@0.service.
+Apr 01 21:22:46 fedora systemd[1]: systemd-hostnamed.service: Deactivated successfully.
+Apr 01 21:22:46 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=systemd-hostnamed comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 21:22:46 fedora audit: BPF prog-id=130 op=UNLOAD
+Apr 01 21:25:22 fedora cupsd[1286]: REQUEST localhost - - "POST / HTTP/1.1" 200 184 Renew-Subscription successful-ok
+Apr 01 21:33:47 fedora brave-browser.desktop[3169]: [3216:3320:0401/213347.240927:ERROR:components/viz/service/display/display.cc:275] Frame latency is negative: -0.012 ms
+Apr 01 21:36:06 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.8.8.
+Apr 01 21:36:11 fedora wpa_supplicant[1270]: wlo1: RSN: failed to get master session key from pre-auth EAPOL state machines
+Apr 01 21:36:11 fedora wpa_supplicant[1270]: wlo1: RSN: pre-authentication with bc:a9:93:83:7f:70 failed
+Apr 01 21:36:11 fedora systemd-resolved[960]: Using degraded feature set UDP instead of TCP for DNS server 8.8.4.4.
+Apr 01 21:36:36 fedora kernel: perf: interrupt took too long (4233 > 4098), lowering kernel.perf_event_max_sample_rate to 47000
+Apr 01 21:37:37 fedora audit: BPF prog-id=133 op=LOAD
+Apr 01 21:37:37 fedora systemd[1]: Starting fprintd.service - Fingerprint Authentication Daemon...
+Apr 01 21:37:37 fedora systemd[1]: Started fprintd.service - Fingerprint Authentication Daemon.
+Apr 01 21:37:37 fedora audit[1]: SERVICE_START pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 21:37:39 fedora gdm-password][79784]: gkr-pam: unlocked login keyring
+Apr 01 21:37:39 fedora audit[79784]: USER_AUTH pid=79784 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:authentication grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 21:37:39 fedora audit[79784]: USER_ACCT pid=79784 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:accounting grantors=pam_unix acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 21:37:39 fedora audit[79784]: CRED_REFR pid=79784 uid=0 auid=1000 ses=2 subj=system_u:system_r:xdm_t:s0-s0:c0.c1023 msg='op=PAM:setcred grantors=pam_unix,pam_gnome_keyring acct="nigam" exe="/usr/libexec/gdm-session-worker" hostname=fedora addr=? terminal=/dev/tty1 res=success'
+Apr 01 21:37:39 fedora NetworkManager[1241]: <info>  [1775059659.7800] agent-manager: agent[ece35e2d46cfd922,:1.103/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Apr 01 21:38:07 fedora systemd[1]: fprintd.service: Deactivated successfully.
+Apr 01 21:38:07 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fprintd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 21:38:07 fedora audit: BPF prog-id=133 op=UNLOAD
+Apr 01 21:47:08 fedora systemd[1]: fwupd.service: Deactivated successfully.
+Apr 01 21:47:08 fedora audit[1]: SERVICE_STOP pid=1 uid=0 auid=4294967295 ses=4294967295 subj=system_u:system_r:init_t:s0 msg='unit=fwupd comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+Apr 01 21:47:08 fedora audit: BPF prog-id=91 op=UNLOAD

@@ -20,8 +20,9 @@ def fetch_data():
     alerts_df = pd.read_sql("SELECT * FROM alerts ORDER BY timestamp DESC LIMIT 20", conn)
     alerts_all = pd.read_sql("SELECT * FROM alerts ORDER BY timestamp ASC", conn)
     devices_df = pd.read_sql("SELECT * FROM devices", conn)
+    crypto_events_df = pd.read_sql("SELECT * FROM crypto_events ORDER BY timestamp DESC LIMIT 50", conn)
     conn.close()
-    return logs_df, alerts_df, alerts_all, devices_df
+    return logs_df, alerts_df, alerts_all, devices_df, crypto_events_df
 
 # Title and Layout
 st.title("🛡️ Secure Intelligent Log Analysis & Transformer Anomaly Detection")
@@ -33,7 +34,7 @@ placeholder = st.empty()
 
 with placeholder.container():
     try:
-        logs_df, alerts_df, alerts_all, devices_df = fetch_data()
+        logs_df, alerts_df, alerts_all, devices_df, crypto_events_df = fetch_data()
         
         # Metrics row
         col1, col2, col3, col4 = st.columns(4)
@@ -95,6 +96,15 @@ with placeholder.container():
         if not logs_df.empty:
             display_logs = logs_df[['timestamp', 'device_id', 'predicted_source', 'source_confidence', 'raw_content']]
             st.dataframe(display_logs, use_container_width=True)
+
+        st.markdown("---")
+
+        # Row 5: Crypto Events
+        st.subheader("🔑 Cryptographic Events")
+        if not crypto_events_df.empty:
+            st.dataframe(crypto_events_df, use_container_width=True)
+        else:
+            st.info("No cryptographic events recorded yet.")
             
     except Exception as e:
         st.error(f"Error loading dashboard: {e}")

@@ -49,6 +49,15 @@ class Template(Base):
     template_text = Column(Text)
     frequency = Column(Integer, default=1)
 
+class CryptoEvent(Base):
+    __tablename__ = "crypto_events"
+    id = Column(Integer, primary_key=True, index=True)
+    timestamp = Column(DateTime, default=datetime.utcnow)
+    device_id = Column(String, ForeignKey("devices.id"))
+    event_type = Column(String) # e.g., "Decryption", "Signature Verification"
+    status = Column(String) # e.g., "Success", "Failure"
+    details = Column(Text, nullable=True)
+
 def init_db():
     Base.metadata.create_all(bind=engine)
 

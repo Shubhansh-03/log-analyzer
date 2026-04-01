@@ -11,7 +11,7 @@ import sys
 import os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from database import init_db, get_db, Device, RawLog, ParsedLog, Alert, Template
+from database import init_db, get_db, Device, RawLog, ParsedLog, Alert, Template, CryptoEvent
 from decryptor import Decryptor
 from classifier import LogSourceClassifier
 from parser_engine import ParserEngine
@@ -124,14 +124,26 @@ def process_log_batch(payload_dict: dict, db: Session):
 
 @app.post("/receive_logs")
 def receive_logs(payload: SecurePayload, background_tasks: BackgroundTasks, db: Session = Depends(get_db)):
-    try:
-        decrypted_dict = app.state.decryptor.decrypt_and_verify(payload.dict())
-        background_tasks.add_task(process_log_batch, decrypted_dict, db)
-        return {"status": "accepted", "message": "Payload verified and accepted for processing"}
-    except ValueError as e:
-        raise HTTPException(status_code=400, detail=str(e))
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Internal server error: {e}")
+    decrypted_dict, events = app.state.decryptor.decrypt_and_verify(payload.dict())
+    
+    # Log all cryptographic events
+    for event in events:
+        db.add(CryptoEvent(
+            device_id=payload.device_id,
+            event_type=event['event_type'],
+            status=event['status'],
+            details=event.get('details', '')
+        ))
+    db.commit()
+
+    if decrypted_dict is None:
+        # The last event in the list will contain the reason for failure
+        failure_reason = events[-1]['details'] if events else "Unknown validation error"
+        raise HTTPException(status_code=400, detail=failure_reason)
+
+    # If successful, queue the main log processing
+    background_tasks.add_task(process_log_batch, decrypted_dict, db)
+    return {"status": "accepted", "message": "Payload verified and accepted for processing"}
 
 @app.get("/alerts")
 def get_alerts(limit: int = 50, db: Session = Depends(get_db)):
