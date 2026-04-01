@@ -93,12 +93,31 @@ def process_log_batch(payload_dict: dict, db: Session):
         )
         db.add(parsed_log)
 
-        # Anomaly Detection (Mode 1 simulation for demo)
-        mock_features = [random.randint(0, 5) for _ in range(5)]
-        anomaly_score = app.state.detector.compute_anomaly_score_mode1(mock_features)
+        # Tabular Transformer Anomaly Detection
+        # Simulate features that would normally be extracted via parsing or aggregated
+        df_dict = {
+            'Response_Time_ms': random.randint(100, 10000),
+            'CPU_Usage_Percent': random.uniform(10.0, 99.0),
+            'Memory_Usage_MB': random.randint(500, 64000),
+            'Disk_Usage_Percent': random.uniform(10.0, 99.0),
+            'Network_In_KB': random.randint(1000, 1000000),
+            'Network_Out_KB': random.randint(1000, 1000000),
+            'Login_Attempts': random.randint(0, 50),
+            'Failed_Transactions': random.randint(0, 20),
+            'Alert_Count': random.randint(0, 50),
+            'Retry_Count': random.randint(0, 10),
+            'Source': pred_source,
+            'User_Role': random.choice(['Admin', 'User', 'Operator', 'Service Account']),
+            'Service_Type': random.choice(['API', 'Web', 'DB', 'Cache', 'Storage']),
+            'Location': random.choice(['US', 'EU', 'APAC', 'LATAM'])
+        }
+        
+        anomaly_score, pred_severity = app.state.detector.compute_transformer_anomaly(df_dict)
 
         alert_obj = app.state.alert_service.evaluate(new_log.id, anomaly_score, parsed_dict)
         if alert_obj:
+            if pred_severity != "UNKNOWN":
+                alert_obj.severity = pred_severity.upper()
             db.add(alert_obj)
 
     db.commit()

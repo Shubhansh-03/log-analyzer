@@ -15,7 +15,7 @@ def setup_keys():
     generate_key_pair("keys", "test_client")
     generate_key_pair("keys", "test_server")
     yield
-    # Cleanup
+
     for f in ["test_client_private.pem", "test_client_public.pem", "test_server_private.pem", "test_server_public.pem"]:
         try:
             os.remove(os.path.join("keys", f))

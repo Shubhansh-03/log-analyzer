@@ -24,7 +24,7 @@ def fetch_data():
     return logs_df, alerts_df, alerts_all, devices_df
 
 # Title and Layout
-st.title("🛡️ Secure Intelligent Log Analysis & Anomaly Detection")
+st.title("🛡️ Secure Intelligent Log Analysis & Transformer Anomaly Detection")
 
 # Auto-refresh using empty container and rerun
 refresh_rate = st.sidebar.slider("Auto-refresh interval (seconds)", 5, 60, 5)
@@ -61,7 +61,7 @@ with placeholder.container():
                 st.info("No logs collected yet.")
 
         with col_chart2:
-            st.subheader("📈 Anomaly Scores Over Time")
+            st.subheader("📈 Transformer Anomaly Probabilities")
             if not alerts_all.empty:
                 alerts_ts = alerts_all.set_index(pd.to_datetime(alerts_all['timestamp']))
                 st.line_chart(alerts_ts['anomaly_score'])
@@ -71,7 +71,7 @@ with placeholder.container():
         st.markdown("---")
 
         # Row 3: Alerts Table
-        st.subheader("⚠️ Recent Anomaly Alerts")
+        st.subheader("⚠️ Recent Transformer Anomaly Alerts")
         if not alerts_df.empty:
             def highlight_severity(s):
                 if s['severity'] == 'CRITICAL':
