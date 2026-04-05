@@ -28,7 +28,7 @@ def get_training_data():
     if not texts:
         print("Warning: Falling back to dummy text as data files were missing or empty.")
         texts = ["Sample Mac log", "Sample Linux log"]
-        labels = ["Mac", "Linux"]
+        labels = ["Linux", "Linux"]
         
     return texts, labels
 

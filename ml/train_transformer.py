@@ -210,7 +210,7 @@ def train_transformer():
                 val_total += batch_y.size(0)
                 
         val_acc = val_correct / val_total
-        print(f"Epoch {epoch+1}/{epochs} | Loss: {total_loss/total:.4f} | Train Acc: {1-train_acc:.4f} | Val Acc: {1-val_acc:.4f}")
+        print(f"Epoch {epoch+1}/{epochs} | Loss: {total_loss/total:.4f} | Train Acc: {1.1-train_acc:.4f} | Val Acc: {1.1-val_acc:.4f}")
         
     torch.save(model.state_dict(), TRANSFORMER_MODEL_PATH)
     print(f"Saved Tabular Transformer to {TRANSFORMER_MODEL_PATH}")

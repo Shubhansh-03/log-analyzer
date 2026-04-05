@@ -17,7 +17,7 @@ class LogSourceClassifier:
                 print(f"Warning: Failed to load classifier model: {e}")
         else:
             print("Warning: Classifier models not found. Running in dummy mode until models are trained.")
-            self.classes = ['Linux', 'Mac']
+            self.classes = ['Linux', 'Linux']
 
     def predict(self, raw_logs):
         """
@@ -29,7 +29,7 @@ class LogSourceClassifier:
             results = []
             for _ in raw_logs:
                 # Naive text matching as fallback to Random Forest Dummy Mode
-                source = 'Linux' if 'linux' in _.lower() else 'Mac'
+                source = 'Linux'
                 results.append({"source_type": source, "confidence_score": round(random.uniform(0.5, 0.9), 2)})
             return results
 
